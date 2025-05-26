@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smichalove (Steven Michalove)
 - 👀 I’m interested in python and raspberry pi
-- 🌱 I’m currently learning fundamentals of Python at the University of Washinton
+
 - 💞️ I’m looking to collaborate on raspberry pi control of audio equipment
 - 📫 How to reach me ...
 
