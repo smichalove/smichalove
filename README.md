@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @smichalove (Steven Michalove)
-- 👀 I’m interested in python and raspberry pi
+- 👀 I’m interested in python and raspberry pi and IOT for home automation
 
-- 💞️ I’m looking to collaborate on raspberry pi control of audio equipment
-- 📫 How to reach me ...
 
 <!---
 smichalove/smichalove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
