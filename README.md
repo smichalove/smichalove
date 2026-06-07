@@ -1,6 +1,6 @@
 # Hi, I’m Steven Michalove (@smichalove)
 
-Senior Security Engineering Leader & Systems Architect specializing in distributed trust models, edge AI automation, and resilient IoT ecosystems.
+Senior Security Engineering TPM Leader & Systems Architect specializing in distributed trust models, edge AI automation, and resilient IoT ecosystems.
 
 ---
 
